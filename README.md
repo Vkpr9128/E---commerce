@@ -1,6 +1,6 @@
 # Employee review system
 The Employee Review System is a web application that allows employees to submit feedback towards each other's performance. The system includes admin view capabilities such as employee management and performance review assignment.
-![2](DEMO/2.png)
+![2](https://github.com/erpankajk4/Employee_Review_System/assets/118353291/ad8fd8a2-2d54-401c-9728-92f9a7f1924b)
 
 ## Host link:
 
@@ -97,9 +97,10 @@ This project was developed by [Your Name] as a coding exercise. It is not intend
 
 ## License
 This project is licensed under the MIT License. Feel free to use and modify the code as you see fit.
+![0](https://github.com/erpankajk4/Employee_Review_System/assets/118353291/5a840a9f-26e6-45cf-8f71-64b1c4f1a2e5)
+![1](https://github.com/erpankajk4/Employee_Review_System/assets/118353291/f89bb587-62e1-4bc7-8e88-c4a2453182e3)
+![3](https://github.com/erpankajk4/Employee_Review_System/assets/118353291/a356b724-7e0d-40af-9862-54b174736bac)
+![4](https://github.com/erpankajk4/Employee_Review_System/assets/118353291/71b96f7b-fc0c-467d-ac54-71272b5f526d)
+![5](https://github.com/erpankajk4/Employee_Review_System/assets/118353291/2c06c875-27d9-44da-8588-8df638813404)
 
-![0](DEMO/0.png)
-![1](DEMO/1.png)
-![3](DEMO/3.png)
-![4](DEMO/4.png)
-![5](DEMO/5.png)
+
