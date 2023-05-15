@@ -2,8 +2,6 @@
 The Employee Review System is a web application that allows employees to submit feedback towards each other's performance. The system includes admin view capabilities such as employee management and performance review assignment.
 ![2](https://github.com/erpankajk4/Employee_Review_System/assets/118353291/ad8fd8a2-2d54-401c-9728-92f9a7f1924b)
 
-## Host link:
-
 ## DEMO Video on Youtube:
 
 
