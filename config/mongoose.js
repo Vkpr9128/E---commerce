@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 // Connection to the database
-mongoose.connect(process.env.db, {
+mongoose.connect("mongodb://127.0.0.1/employee_review_system", {
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
