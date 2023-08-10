@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 // Connection to the database
-mongoose.connect("mongodb://127.0.0.1/employee_review_system", {
+mongoose.connect("mongodb+srv://vkashrai:vkashrai123@cluster0.fg7alpm.mongodb.net/skilltag", {
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
