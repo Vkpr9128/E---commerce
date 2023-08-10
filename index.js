@@ -47,7 +47,7 @@ app.use(
       maxAge: 2000 * 60 * 100,
     },
     store: MongoStore.create({
-      mongoUrl: process.env.db,
+      mongoUrl: "mongodb+srv://vkashrai:vkashrai123@cluster0.fg7alpm.mongodb.net/skilltag",
       autoRemove: 'disabled',
     }),
     function(err) {
